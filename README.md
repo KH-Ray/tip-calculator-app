@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/KH-Ray/tip-calculator-app](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/KH-Ray/tip-calculator-app](https://github.com/KH-Ray/tip-calculator-app)
+- Live Site URL: [https://lucky-cassata-a31d86.netlify.app/](https://lucky-cassata-a31d86.netlify.app/)
 
 ## My process
 
